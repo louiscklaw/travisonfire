@@ -1,0 +1,20 @@
+{
+  "name": "travisonfire",
+  "version": "1.0.0",
+  "description": "## medium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"skipping test for travis build\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiscklaw/travisonfire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiscklaw/travisonfire/issues"
+  },
+  "homepage": "https://github.com/louiscklaw/travisonfire#readme"
+}
